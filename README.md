@@ -7,3 +7,7 @@
 4.在 blogvue 中 <br>
 `npm install`<br>
 `npm run dev`
+
+`账号admin`	
+
+`密码111111`
