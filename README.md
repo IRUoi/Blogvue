@@ -6,4 +6,6 @@
 3.运行前端（blogvue）<br>
 4.在 blogvue 中 <br>
 `npm install`<br>
-`npm run dev`
+`npm run dev`<br>
+>账号 admin<br>
+>密码 111111
